@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:linear-gradient(to right , rgb(26,95,19),rgb(0,0,0)) ;
+    background-size: 100% 740px;
+    font-family: 'Mulish',sans-serif;
+}
+.login{
+    width: 350px;
+    height: 400px;
+    border-radius: 3%;
+    text-align: center;
+    background-color: rgba(0, 0, 0,0.3) ;
+    margin-left: 39%;
+    margin-top: 10%;
+    color: white;
+}
+.login.value{
+    position: relative;
+    top: 10%;
+
+}
+#inp1{
+    border: none;
+    background-image:black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 22px;
+    margin-top: 50px;
+    outline: none;
+    color: black;
+}
+#inp2{
+    border: none;
+    background-image:black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 21px;
+    margin-top: 40px;
+    outline: none;
+    color: black;
+}
+.value button{
+    width: 250px;
+    height: 44px;
+    background-color: rgba(31, 217, 140, 0.8);
+    color:black;
+    border: none;
+    font-size: 20px;
+    border-radius: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+p{
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+p a{
+    color: rgb(22, 104, 104);
+}
+button:hover{
+    border:3px soild rgb(16, 16, 240);
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
+h1{
+    font-size: 36px;
+    position: relative;
+    height: 5px;
+    top: 12px;
+
+}
