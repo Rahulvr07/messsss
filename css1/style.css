@@ -1,0 +1,175 @@
+/* h1{
+    color : red;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    color: brown;
+    background-color: rgb(197, 229, 218);
+}
+
+body{
+    background-color:#ffffa0;
+} */
+/* *{
+    color: rgb(74, 176, 176);
+} */
+/* h1{
+    color: aqua;
+} */
+/* .Hello
+{
+    color: blueviolet;
+} */
+/* #box{
+    background-color: aquamarine;
+}
+.heading{
+    color: bisque;
+}
+
+button{
+    background-color: green;
+
+} */
+/* h1{
+    text-decoration: underline;
+    text-align: center;
+   text-transform: capitalize;
+}
+p{
+    text-decoration: wavy;
+    line-height: 50px;
+    font-size: medium;
+    transform: skewX();
+    font-family: 'Times New Roman';
+}
+a{
+    text-decoration: none;
+}
+#div{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+ div{
+    /* height: 100px;
+    width: 100px; */
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: palevioletred; */
+    /* border: 2px solid blueviolet;
+    background-color: aquamarine; */
+    /* padding-left: 25px;
+    padding-right: 25px; */
+    /* padding: 25px 25px 26px 25px;margin-top: 50px;
+    margin-left: 30px;
+     */
+     /* text-align: center;
+     background-color: green;
+     /* border-radius: 50%; */
+}
+/* *{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(244, 241, 241);
+}
+#nav{
+    height:60px ;
+    background-color: rgb(6, 5, 5);
+}
+#logo{
+    color:orange;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+    padding-right: 5px;
+    text-decoration: none;
+}  */
+/* div{
+    background-color: rgb(94, 192, 192);
+    display: inline;
+}
+
+button{
+    display: block;
+} */
+
+/* div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+
+} */
+
+/* amazon */
+
+/* #box1{
+    height: 200px;
+    width: 200px;
+   border: solid black;
+   display: inline-block;
+   color: black;
+}
+#footer{
+    color: rgb(8, 6, 6);
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#box{
+    height: 600px;
+} */
+/* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2{
+    height: 50px;
+    width: 30%;
+    margin-left: 10%;
+    background-color: #f08804;
+    font-size: 2em;
+    width: 5rem;
+} */
+
+
+/* position */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    /* border: solid black; */
+    /* display: inline-block;
+    
+}
+
+#box2{
+    background-image: url(bird.avif);
+    background-size: cover;
+}
+body{
+    background-image: url(bird.avif);
+    background-size: auto;
+} */ 
+div{
+    height:100px ;
+    width: 100px;
+    
+}
